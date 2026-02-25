@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304035436675",
+    "project_id": "mad-dadt04-jai",
+    "storage_bucket": "mad-dadt04-jai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304035436675:android:5b38a9a01d655247a8e3b6",
+        "android_client_info": {
+          "package_name": "com.example.mymobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPTf7E5Clo3DshjWI_MpX5GrMDZ3Cs-jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
