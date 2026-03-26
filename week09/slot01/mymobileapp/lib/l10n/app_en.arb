@@ -1,0 +1,11 @@
+{
+    "loginTitle": "Login",
+    "welcomeLogin": "Welcome to Login",
+    "email": "Email",
+    "password": "Password",
+    "loginButton": "Login",
+    "showPasswordSwitch": "Show Password",
+    "registerAccountButton": "Register Account",
+    "registerTitle": "Register Page",
+    "fullName": "Full Name"
+}
